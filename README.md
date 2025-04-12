@@ -3,7 +3,7 @@
 ## About me
 
 - I'm a hobby developer who codes in his free time and is interested in all things tech
-- My main interest at the moment consists of general software tools. I was really into game development a few years back, but that got put on the back burner for now (linked my itch.io page in case you want to play any of my games)
+- My main interest at the moment software engineering. Previous interests include mobile and game development (linked my itch.io page in case you want to play any of my games)
 
 - Other interests include **Linux**, **Art** and **Gaming**
 
